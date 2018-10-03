@@ -1,2 +1,2 @@
 # wilaya
-name of wilaya with key 
+get name of wilaya with key 
